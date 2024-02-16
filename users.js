@@ -18,4 +18,5 @@ const users = [
       status: 'admin'
     }
   ];
+ module.exports = users;
 
